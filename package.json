@@ -9,6 +9,7 @@
     "@material-ui/styles": "^4.7.1",
     "chroma-js": "^2.1.0",
     "emoji-mart": "^2.11.1",
+    "gh-pages": "^2.2.0",
     "rc-slider": "^8.7.1",
     "react": "^16.12.0",
     "react-color": "^2.17.3",
